@@ -105,4 +105,4 @@ One more thing: if your remote UnifiedML apps are [git-ssh enabled](https://docs
 
 [Licensed under the MIT license.](MIT_LICENSE)
 
-<img width="10%" alt="tributaries-logo" src="https://github.com/AGI-init/Assets/assets/92597756/7e7bb054-f265-4f53-a4f2-d3af52f1d890">
+<img width="10%" alt="tributaries-logo" src="https://github.com/AGI-init/Tributaries/assets/92597756/4f17e7b0-f0a6-407a-92aa-4ad8da65d712">
